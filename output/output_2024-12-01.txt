@@ -1,0 +1,8 @@
+2024-12-01 14:23:45 INFO User logged in
+2024-12-01 14:24:10 ERROR Failed to connect to the database
+2024-12-02 09:15:30 WARN Disk space running low
+2024-12-01 18:45:00 DEBUG Checking system health
+2024-12-03 11:12:45 INFO Service restarted successfully
+2024-12-01 22:05:30 ERROR Timeout while connecting to server
+2024-12-04 08:30:25 INFO User logged out
+2024-12-01 07:30:00 WARN High memory usage detected
